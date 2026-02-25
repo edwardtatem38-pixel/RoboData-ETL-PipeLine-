@@ -1,9 +1,7 @@
 # RoboData-ETL-PipeLine-
 A Python and SQL Server Extract, Transform and Load that simulates real-time robotic arm kinematics. This project extracts joints angles and coordinate data, transforms timestamps for readability, and loads the results into relational database for industrial logging. 
 
-# Robot-Kinematics-ETL-Pipeline
 
-An end-to-end data pipeline that simulates robotic arm movements in Python and logs the telemetry data into a Microsoft SQL Server database.
 
 ## 🚀 Project Overview
 This project demonstrates a functional ETL (Extract, Transform, Load) workflow:
