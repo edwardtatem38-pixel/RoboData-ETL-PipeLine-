@@ -25,3 +25,10 @@ The project utilizes a `RobotKinematics` database with an `ArmMovementLog` table
 * Resolved **Python Environment (venv)** conflicts to ensure correct module mapping in VS Code.
 * Debugged **SQL Connection strings** and handled object name mismatch errors.
 
+* ## 🖼️ System in Action
+### Python Data Generation
+![Python Script Running](Screenshot%202026-02-25%20142355.png)
+
+### SQL Database Verification
+![SQL Data Grid](Screenshot%202026-02-25%20142325.png)
+
